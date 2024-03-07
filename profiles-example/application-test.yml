@@ -13,4 +13,4 @@ spring:
       enabled: true
       path: /h2-console
 
-message: Hello Test!
+message: Hello Test123!
