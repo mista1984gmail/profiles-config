@@ -1,6 +1,4 @@
 spring:
-  profiles:
-    active: test
   liquibase:
     enabled: true
     drop-first: false
