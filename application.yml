@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: test
+  liquibase:
+    enabled: true
+    drop-first: false
+    change-log: db/changelog/db.changelog-master.xml
