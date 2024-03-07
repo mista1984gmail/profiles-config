@@ -13,4 +13,4 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
 
-message: Hello Dev456!
+message: Hello Dev!
