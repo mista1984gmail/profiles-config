@@ -10,9 +10,5 @@ spring:
     console:
       enabled: true
       path: /h2-console
-  liquibase:
-    enabled: true
-    drop-first: false
-    change-log: classpath:db/changelog/db.changelog-master.xml
 
 message: Hello Test!
